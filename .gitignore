@@ -1,0 +1,6 @@
+#dataset
+data/location_history.json
+
+.ipynb_checkpoints
+/*.ipynb_checkpoints/*
+
