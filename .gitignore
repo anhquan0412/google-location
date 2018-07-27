@@ -1,6 +1,5 @@
 #dataset
-data/location_history.json
-data/houston.html
+data
 .ipynb_checkpoints
 /*.ipynb_checkpoints/*
 
